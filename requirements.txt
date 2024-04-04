@@ -1,5 +1,2 @@
 streamlit
 streamlit_option_menu
-numpy
-pandas
-sqlite3
