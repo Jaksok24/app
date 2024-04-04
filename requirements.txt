@@ -1,0 +1,2 @@
+streamlit==0.81.0
+streamlit-option-menu==0.1.1
