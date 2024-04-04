@@ -43,7 +43,6 @@ st.set_page_config(page_title="Statki", page_icon=":ship:", layout="wide")
 #     return c.fetchall()
 
 with st.sidebar:
-    st.image("logo-Port-karamaranow8-2.png")
     selected = option_menu(
         menu_title = "Menu",
         options = ["Strona główna", "Rezerwacje", "Zaloguj"],
